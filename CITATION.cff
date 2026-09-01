@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Tajikistan Archaeological Occurrence and Expansion Risk Mapping"
+type: software
+authors:
+  - family-names: "[FAMILY NAME]"
+    given-names: "[GIVEN NAME]"
+version: "1.0.0"
+date-released: "2026-[MM]-[DD]"
+repository-code: "https://github.com/[OWNER]/[REPOSITORY]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Machine Learning Based National Mapping of Archaeological Occurrence and Land-Use Pressure in Tajikistan"
+  authors:
+    - family-names: "[FAMILY NAME]"
+      given-names: "[GIVEN NAME]"
+  doi: "[PAPER DOI]"
